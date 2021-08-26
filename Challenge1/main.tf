@@ -107,7 +107,7 @@ resource "aws_internet_gateway" "igw" {
   }
 }
 
-# Create Web layber route table
+# Create Web layer route table
 resource "aws_route_table" "web-rt" {
   vpc_id = aws_vpc.my-vpc.id
 
