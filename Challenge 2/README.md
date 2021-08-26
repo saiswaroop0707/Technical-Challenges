@@ -10,5 +10,5 @@ Open the src folder
 cd challenges/challenge2/src
 
 Run whichever script you need:
-python3 metadata.py
+
 python3 querymetadata.py
